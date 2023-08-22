@@ -39,9 +39,7 @@ const Footer = () => {
                     <h5>Call : <a href="#"> +91 9774267382</a></h5>
                     <h5>WhatsApp : <a href="#">+91 8563459234</a></h5>
                 </div>
-
-                <b>@2023 tourdrift powered and secured by WIX</b>
-               
+                <b className="copyright">@2023 tourdrift powered and secured by WIX</b>
             </div>
         </div>
     )
