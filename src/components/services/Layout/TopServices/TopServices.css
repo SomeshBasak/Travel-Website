@@ -1,0 +1,17 @@
+.main-layout-container{
+    background-color: white;
+    background-size: cover;
+    height:max-content;
+    text-align: center;
+}
+.rec-img{
+    height: 280px;
+    width: 170px;
+}
+h2{
+    font-size: 36px;
+    font-weight: 600;
+}
+.first-container{
+    height: 30vh;
+}

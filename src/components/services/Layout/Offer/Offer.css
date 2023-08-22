@@ -1,0 +1,14 @@
+.main-offer-container{
+    background-color: white;
+    background-size: cover;
+    height:max-content;
+    text-align: center;
+}
+.offer-png{
+    height: 260px;
+    width: 400px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}

@@ -1,0 +1,43 @@
+.contact-im{
+    height: 100vh;
+    background-color: cover;
+}
+.second-container{
+    height: 25vh;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+.para1{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-c{
+    font-size:36px;
+    color:#FF4127;
+}
+.third-container{
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.textar{
+    height:50px;
+    width:70%;
+    margin-top: 15px;
+}
+.txt{
+    width: 300px;
+    margin: 5px;
+}
+
+.btn-send{
+    width:120px;
+    height:40px;
+    border:none;
+    background-color: #FF4127;
+    color:white;
+}

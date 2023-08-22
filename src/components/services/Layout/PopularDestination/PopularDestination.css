@@ -1,0 +1,14 @@
+.main-popular-container{
+    background-color: white;
+    background-size: cover;
+    height:max-content;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.popular-img{
+    height: 200px;
+    width: 200px;
+}

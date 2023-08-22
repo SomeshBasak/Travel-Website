@@ -1,0 +1,186 @@
+.main-cont{
+    background-color: white;
+    background-size: cover;
+    text-align: center;
+    padding: auto;
+}
+.first-container{
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+.heading{
+    font-size: 100px;
+    font-weight: 800;
+}
+
+.second-container{
+    background-color: white;
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    padding-top: 20px;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: 35px;
+}
+.head{
+    height: 100vh;
+}
+.contact{
+    display: flex;
+    justify-content: cente;
+    text-align: left;
+}
+.width{
+    width: 130px;
+}
+.bok-btn{
+    background-color: #fc280d;
+    color: white;
+    font-weight: 500;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+.third-container{
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+}
+.third-heading{
+    font-size: 50px;
+    font-weight: 700;
+}
+.third-para{
+    font-size: 25px;
+}
+.learn-bt{
+    color: white;
+    font-size: 22px;
+    background-color: #fc280d;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+
+    
+}
+.fourth-container{
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
+.fourth-head{ 
+    font-size: 40px;
+}
+.fourth-para{
+    font-size: 22px;
+}
+.places{
+    border:5px ;
+    box-shadow: 5px #cfcecc;
+}
+.places-img{
+    height: 300px;
+    width: 300px;
+}
+.vector{
+    padding-top: 5px;
+}
+
+.fifth-para{
+    color: #FF4127;
+    font-size: 25px;
+    font-weight: 500;
+}
+.fifth-img{
+    height: 450px;
+    width: auto;
+}
+
+.sixth-img{
+    height: 350px;
+    width: auto;
+}
+
+.th-head{
+    font-weight: bold;
+}
+.th-para{
+    font-size: 23px;
+}
+.details{
+    display: flex; 
+    text-align: left;
+}
+.org-txt{
+    color: #FF4127;
+    font-size: 22px;
+    font-weight: 500;
+}
+.txt{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.circle-photo{
+    height: 350px;
+    width: 330px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+}
+.circle-desc{
+    font-size: 30px;
+    font-weight: 200;
+}
+.horizonal-line{
+    color: #ec290f;
+    width: 100px;
+}
+
+
+.white{
+    background-color: #FF4127;
+}
+.ninth-head{
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.ninth-head-white{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.ninth-para-white{
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    padding-bottom: 50px;
+}
+.ninth-para{
+    padding-bottom: 50px;
+    font-size: 22px;
+    font-weight: 400;
+}
+.ninth-more{
+    font-size: 18px;
+}
+.ninth-more-white{
+    color: white;
+    font-size: 18px;
+}
+.brd{
+    border: 1px #fc280d solid;
+}
+
+
